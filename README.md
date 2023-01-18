@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priya Bhardwaj
 - 👀 I’m interested in Game Development and Web Designing
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently learning React Framework
 - 💞️ I’m looking to collaborate on basic game and web designing projects 
 - 📫 Reach me through mail- priyabhardwaj985@gmail.com
 
